@@ -5,6 +5,12 @@ Enterprise WiFi Monitoring, RSSI Analytics and Live Visualization Platform.
 ## Overview
 SignalSense is a production-grade WiFi monitoring platform designed to continuously monitor a single authorized WiFi network. It provides real-time visualization of connected devices based on RSSI (Received Signal Strength Indicator), approximating distance (Near, Medium, Far, Very Far, Disconnected).
 
+## Screenshots
+
+| Analytics Center | Topology Graph |
+|---|---|
+| ![Analytics](assets/screenshots/signalsense-analytics.png) | ![Topology](assets/screenshots/signalsense-topology.png) |
+
 ## Features
 - Real-time animated dashboard of connected devices.
 - RSSI distance estimation and signal classification.
