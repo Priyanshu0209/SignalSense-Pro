@@ -1,0 +1,40 @@
+{
+  "experiments": {
+    "EXP-20260802164831-DEF0": {
+      "id": "EXP-20260802164831-DEF0",
+      "date": "2026-08-02",
+      "time": "11:18:31",
+      "environment": "Home Office",
+      "calibration_profile": "collecting",
+      "router_name": "Primary Router",
+      "router_mac": "UNKNOWN",
+      "esp32_mac": "UNKNOWN",
+      "sample_count": 0,
+      "duration": 10,
+      "operator": "Auto",
+      "notes": "",
+      "status": "Running",
+      "metrics": {}
+    },
+    "EXP-20260802171614-811C": {
+      "id": "EXP-20260802171614-811C",
+      "date": "2026-08-02",
+      "time": "11:46:14",
+      "environment": "Home Office",
+      "calibration_profile": "collecting",
+      "router_name": "Primary Router",
+      "router_mac": "UNKNOWN",
+      "esp32_mac": "UNKNOWN",
+      "sample_count": 0,
+      "duration": 60,
+      "operator": "Auto",
+      "notes": "",
+      "status": "Running",
+      "metrics": {}
+    }
+  },
+  "notes": {
+    "EXP-20260802164831-DEF0": "# Research Notes for EXP-20260802164831-DEF0\n\n",
+    "EXP-20260802171614-811C": "# Research Notes for EXP-20260802171614-811C\n\n"
+  }
+}

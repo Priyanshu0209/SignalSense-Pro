@@ -1,0 +1,16 @@
+{
+  "id": "EXP-20260802171614-811C",
+  "date": "2026-08-02",
+  "time": "11:46:14",
+  "environment": "Home Office",
+  "calibration_profile": "collecting",
+  "router_name": "Primary Router",
+  "router_mac": "UNKNOWN",
+  "esp32_mac": "UNKNOWN",
+  "sample_count": 0,
+  "duration": 60,
+  "operator": "Auto",
+  "notes": "",
+  "status": "Running",
+  "metrics": {}
+}

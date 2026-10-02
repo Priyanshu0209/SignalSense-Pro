@@ -1,0 +1,12 @@
+{
+  "Total Transactions": 96,
+  "Successful Transactions": 96,
+  "Failed Transactions": 0,
+  "Null Overwrites": 0,
+  "Unexpected Overwrites": 0,
+  "Duplicate Rows": 0,
+  "Rollback Count": 0,
+  "Validation Success Rate": 100.0,
+  "Most Modified Field": "N/A",
+  "Most Affected Device": "N/A"
+}

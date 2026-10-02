@@ -1,0 +1,16 @@
+{
+  "Total Validations": 5265,
+  "Passed Validations": 0,
+  "Failed Validations": 5265,
+  "API Success Rate": 0.0,
+  "Serialization Success Rate": 100.0,
+  "Missing Fields": 0,
+  "Null Fields": 5265,
+  "Type Mismatches": 0,
+  "Serialization Errors": 0,
+  "Total Requests": 200,
+  "Average Payload Size": 5001.85,
+  "Average Response Time": 0.33,
+  "Most Missing Field": "Upload",
+  "Most Affected Endpoint": "/devices"
+}
